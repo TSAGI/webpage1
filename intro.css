@@ -1,0 +1,45 @@
+html {
+    background-color: burlywood;
+}
+
+h1 {
+    color: darkslategray;
+    font-style: italic;
+}
+
+p {
+    color: maroon;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: fantasy; 
+}
+
+.rodents {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: orangered;
+}
+
+.images {
+    width: 150px;
+    height: 150px;
+    position: relative;    
+}
+
+#guineaPig {
+    color: darkgreen;
+    font-size: 15px;
+    font-style: unset;
+}
+
+#hamster {
+    color: darkviolet;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+#squirrel {
+    color: brown;
+    font-size: 25px;
+    font-style: inherit;
+}
